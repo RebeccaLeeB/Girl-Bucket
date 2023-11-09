@@ -14,8 +14,6 @@
     <link rel="stylesheet" href="/style.css" />
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 </head>
-
-
 <body>
     <nav class="navbar">
         <div class="container">
