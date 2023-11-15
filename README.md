@@ -30,5 +30,8 @@ alt="logo" width="320px" height="440px" />
 alt="Ways to contact us" width="350px" height="480px" />
 
  
-
+## Thanks for looking at the photos on this website. It is a cleaning service in Coral Springs, Florida. 
+The owner wanted a simple one-page layout to give an anchor to her online presence. Being this is a local 
+service type business, the local advertising is mailouts and flyers. The customer is very happy with her 
+new website, but I'll still be making updates that I'll share here on GitHub.
 
