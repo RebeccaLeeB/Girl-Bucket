@@ -1,5 +1,4 @@
-# www.agirlandherbucket.com
-# These are screenshots of the actual website.
+# www.agirlandherbucket.com These are screenshots of the actual website.
 <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/401857889_1028843218449054_1176911651854697389_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5IBlKih2H-kAX8GvSXB&_nc_ht=scontent-mia3-2.xx&oh=00_AfAfx-xOm6TpHn8nKf8we2WmzQmPf7Yfslmo3WFU0fF3Tw&oe=655B2903" alt="Screenshots of A Girl And Her Bucket website." />
 <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/401857877_1028843791782330_4061087297669324779_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-3KQED8l3j8AX-9u2Li&_nc_ht=scontent-mia3-2.xx&oh=00_AfDxXCu5bBceLJCLzsgAF3o1G6tWU-0_4uusf8IKzegV8Q&oe=655C1DC0" alt="Screenshots of A Girl And Her Bucket website." />
 <img src="https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/399760022_1028843275115715_631524643869568097_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VVKU4jpr1sUAX9Nxa2y&_nc_ht=scontent-mia3-1.xx&oh=00_AfCgiZQ7oPTgRAoeEKHtAbMYoYKScmEWtID8KjALtw7vSA&oe=655B8F98" alt="Screenshots of A Girl And Her Bucket website." />
